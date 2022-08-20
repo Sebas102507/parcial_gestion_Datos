@@ -5,7 +5,7 @@ Juan Sebatian Vargas Torres
 
 Las respuestas también se pueden encontar en el notebook para mayor claridad en cada una de las secciones del mismo.
 
-Pregunta 1:
+##Pregunta 1:
 
 Las variables y sus  tipos del del dataframe se pueden observar a continuación:
 
@@ -24,7 +24,7 @@ Atributo  |Type
  
  
  
- Pregunta 2:
+ ##Pregunta 2:
  
  
  Gender:
@@ -79,7 +79,7 @@ Se econtaron valores atípicos, por lo tanto se buscaron aquellos estuvieran 1.5
 
  
  
- Pregunta 3:
+##Pregunta 3:
 
 Se logra observar que la asignatura que en promedio tiene mayor puntaje es Reading.
 
@@ -89,7 +89,8 @@ Para el caso de Reading: Se puede obsevar que tiene un ligero sesgo hacia la der
 
 Para el caso de Writing: Se puede obsevar que tiene un ligero sesgo hacia la derecha.
 
-Pregunta 4:
+
+##Pregunta 4:
 
 
 Se puede observar que existen una alta correlación positiva entre todos los features, resaltando una mayor correlación entre los features: "Reading Score" y "Writing Score".
@@ -97,7 +98,7 @@ Se puede observar que existen una alta correlación positiva entre todos los fea
 
 
 
-Pregunta 5:
+##Pregunta 5:
 
 
 Se puede observar que de media, los hombres tienden a tener un puntaje ligeramente mayor a de las mujeres y las personas consideradas como "non-binary"
@@ -107,14 +108,14 @@ En base a lo anterior, se logra obsevar una ligera diferencia en los puntajes ob
 
 
 
-Pregunta 6:
+##Pregunta 6:
 
 
 Se puede obsevar que los padres de los hijos que obtuvieron un writing score superior al percentil 85, tienen todos los distintos tipos de escolaridad, aunque los más representativos son "associate's degree" y "some college"
 
 
 
-Pregunta 7:
+##Pregunta 7:
 
 
 Se puede obsevar que solo el 2,4% de los estudiantes obtuvieron un puntaje igual o superior a 90 en las tres asignaturas.
