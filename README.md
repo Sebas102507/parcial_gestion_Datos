@@ -12,11 +12,11 @@ Las variables y sus  tipos del del dataframe se pueden observar a continuación:
 
 Atributo  |Type
 -------------------|-------------------
- Gender         | object (Categórico)
- Race         |  object (Categórico)
+ Gender         | object (Categórico nominal)
+ Race         |  object (Categórico nominal)
  parental level of education         |  object (Categórico-ordinal)
- lunch         |  object (Categórico)
- test preparation course          |  object (Categórico)
+ lunch         |  object (Categórico nominal)
+ test preparation course          |  object (Categórico nominal)
  math score     |  float 64 (Numérico)
  reading score   |  float 64 (Numérico)
  writing score   |  float 64 (Numérico)
